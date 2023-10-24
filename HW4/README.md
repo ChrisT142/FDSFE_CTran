@@ -1,0 +1,2 @@
+- About citibikes, and means/std/t-test/k-test
+- Worked by myself 
