@@ -5,3 +5,5 @@ Good plot
 - but it's missing titles 
 
 Bad plot
+![image](https://github.com/ChrisT142/FDSFE_CTran/assets/144075367/3e2cfd6d-0d6d-4213-8af9-538c35d9edab)
+- rainbow colors
