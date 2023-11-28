@@ -10,8 +10,9 @@ Bad plot
 
 ![image](https://github.com/ChrisT142/FDSFE_CTran/assets/144075367/ffcf6fc7-7cec-40b5-90f5-971f724b8f8c) 
 BEFORE PLOT HW5
-
+AFTER??
 ![image](https://github.com/ChrisT142/FDSFE_CTran/assets/144075367/98ef1a7b-8d81-45a3-a5f8-cacf75c03dd3)
-AFTER???
+ a scatter plot showing the actual vs. predicted values for the house price per unit area using the multiple regression model.
+
 
 
