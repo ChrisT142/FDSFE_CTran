@@ -12,7 +12,11 @@ Bad plot
 
 
 
-Before Plot 
-![image](https://github.com/ChrisT142/FDSFE_CTran/assets/144075367/ffcf6fc7-7cec-40b5-90f5-971f724b8f8c)
+Before Plot from HW5
+![image](https://github.com/ChrisT142/FDSFE_CTran/assets/144075367/ffcf6fc7-7cec-40b5-90f5-971f724b8f8c) 
 
+
+
+AFTER?
+![image](https://github.com/ChrisT142/FDSFE_CTran/assets/144075367/98ef1a7b-8d81-45a3-a5f8-cacf75c03dd3)
 
