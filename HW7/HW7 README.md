@@ -15,3 +15,5 @@ Bad plot
 
 
 add a reference line, a legend, the plot's a bit clearer. 
+
+TARA: Good work finding the plots, however, you have not provided enough information on why theses plots are good or bad. You needed to use Tufte's rules to describe the characteristics of the plot. Also, the plot you chose from your assignments is missing the caption. 
