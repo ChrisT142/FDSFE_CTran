@@ -1,3 +1,3 @@
--Hw 8 at the end of class code demo
--upload own photo, adjust numbers to center, then run the model
--flatten doesn't work?
+- Hw 8 at the end of class code demo
+- upload own photo, adjust numbers to center, then run the model
+- flatten doesn't work?
